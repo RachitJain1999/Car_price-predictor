@@ -6,11 +6,11 @@ of purchase, fuel type, and distance that car has been travelled.
 
 
 # Skills
-  -Python
-  -html,css and Bootstrap 
-  -Scikit-learn
-  -Linear Regression
-  -Flask
+  - Python
+  - html,css and Bootstrap 
+  - Scikit-learn
+  - Linear Regression
+  - Flask
   
  # Live Action : [Click here!](https://car-pricepredictor-app.herokuapp.com/) 
  
