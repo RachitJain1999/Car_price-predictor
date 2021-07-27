@@ -1,8 +1,6 @@
 # Car_price_predictor
 
-A simple web app made using html,css and ML model linear-Regression allows us
-to predict the price of the car on the basis of attributes like company name, model, year
-of purchase, fuel type, and distance that car has been traveled.
+A simple web app made using HTML, CSS, and ML model linear-Regression allows us to predict the price of the car on the basis of attributes like company name, model, year of purchase, fuel type, and distance that car has been traveled.
 
 
 # Skills
