@@ -2,7 +2,7 @@
 
 A simple web app made using html,css and ML model linear-Regression which allows us
 to predict the price of the car on the basis of attributes like company name, model, year
-of purchase, fuel type, and distance that car has been travelled.
+of purchase, fuel type, and distance that car has been traveled.
 
 
 # Skills
